@@ -1,0 +1,26 @@
+{
+    "name": "vladimir/database-query-formatter",
+    "description": "Provides wrapper to format query with special strategies.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Database\\": "src/",
+            "Test\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mantulo",
+            "email": "mantulo.vladimir@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "8.3.*",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5",
+        "phpstan/phpstan": "^1.10",
+        "symplify/easy-coding-standard": "*"
+    }
+}
