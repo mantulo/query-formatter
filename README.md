@@ -1,7 +1,7 @@
 ## Basic:
-Use cases: [QueryFormatterTest](tests/Query/QueryFormatterTest.php)
-Main component: [QueryFormatter](src/QueryFormatter.php)
-All implemented formatting strategies: [Formatters](/src/Query/Formatter)
+* Use cases: [QueryFormatterTest](tests/Query/QueryFormatterTest.php)
+* Main component: [QueryFormatter](src/QueryFormatter.php)
+* All implemented formatting strategies: [Formatters](/src/Query/Formatter)
 
 ## Dev tools usage:
 
